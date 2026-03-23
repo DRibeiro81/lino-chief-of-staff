@@ -48,4 +48,4 @@ After installation, the agent will:
 
 ## Created By
 
-Daniel Ribeiro (@DRibeiro81) - Vetorizza
+Deivid Ribeiro (@DRibeiro81) - Vetorizza
